@@ -1,0 +1,17 @@
+{
+  "urls": {
+    "slack": {
+      "api": "https://slack.com/api"
+    }
+  },
+  "api": {
+    "token": "apiTokenToSetup"
+  },
+  "bot": {
+    "token": "botUserTokenToSetup",
+    "channel": {
+      "id": "slackChannelId",
+      "name": "slackChannelName"
+    }
+  }
+}
