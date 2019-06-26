@@ -2,7 +2,7 @@
 
 A slack chess bot in developpment
 
-Features
+Next features
 ------------
 
 - Users can play together in a private conversation
